@@ -18,7 +18,7 @@ Testing
 
 http://localhost:3000/api
 
-{ "message": "Hello 👋 I'm Backend API" }
+{ "message": "Hello, I'm Backend API" }
 
 
 --
